@@ -22,3 +22,9 @@
 ⦁	Demonstrates knowledge of networking, security group management, EC2, RDS, and Linux server automation in AWS.
 
 ⦁	Ideal for hosting web apps with strict security, high availability, and scalability requirements (e.g., e-commerce, internal business apps).
+
+
+
+## Step-by-step Process of the Architecture
+
+![STEP-BY-STEP GUIDE](Tier 3 Master Level Instructions.pdf)
