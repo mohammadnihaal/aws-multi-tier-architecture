@@ -1,3 +1,8 @@
+## 📊 Architecture Diagram
+
+![Architecture Diagram](Tier3Topology.png)
+
+
 ✅ Project Name: Highly Available Multi-Tier Web Architecture on AWS
 
 🔧 Project Description & Resume Bullet Points:
